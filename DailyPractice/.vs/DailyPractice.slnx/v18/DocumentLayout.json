@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|c:\\users\\sails-dm159\\documents\\github\\dailypractice\\dailypractice\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|solutionrelative:views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|c:\\users\\sails-dm159\\documents\\github\\dailypractice\\dailypractice\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|solutionrelative:views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|c:\\users\\sails-dm159\\documents\\github\\dailypractice\\dailypractice\\update\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|solutionrelative:update\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|c:\\users\\sails-dm159\\documents\\github\\dailypractice\\dailypractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|c:\\users\\sails-dm159\\documents\\github\\dailypractice\\dailypractice\\data base\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|solutionrelative:data base\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|c:\\users\\sails-dm159\\documents\\github\\dailypractice\\dailypractice\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|solutionrelative:views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|c:\\users\\sails-dm159\\documents\\github\\dailypractice\\dailypractice\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|solutionrelative:controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|c:\\users\\sails-dm159\\documents\\github\\dailypractice\\dailypractice\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|c:\\users\\sails-dm159\\documents\\github\\dailypractice\\dailypractice\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1F4AC6-6026-4FD8-8E6D-2E1B76B993E4}|DailyPractice.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T09:26:52.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T09:25:22.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Update\\Index.cshtml",
+              "RelativeDocumentMoniker": "Update\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Update\\Index.cshtml",
+              "RelativeToolTip": "Update\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T09:23:18.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:57:28.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Data Base\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data Base\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Data Base\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data Base\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T09:13:20.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T09:08:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T09:03:57.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controller\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "Controller\\EmployeeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T09:01:37.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\MOdel\\Employee.cs",
+              "RelativeDocumentMoniker": "MOdel\\Employee.cs",
+              "ToolTip": "C:\\Users\\SAILS-DM159\\Documents\\GitHub\\DailyPractice\\DailyPractice\\MOdel\\Employee.cs",
+              "RelativeToolTip": "MOdel\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:59:47.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

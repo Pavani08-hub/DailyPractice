@@ -1,0 +1,38 @@
+﻿@model EmployeeManagementSystem.Models.Employee
+
+<h1>Employee Details</h1>
+
+<p>Id: @Model.EmployeeId</p>
+<p>Name: @Model.EmployeeName</p>
+<p>Designation: @Model.Designation</p>
+<p>Email: @Model.Email</p>
+<p>Salary: @Model.Salary</p>
+<p>Department: @Model.Department</p>
+
+<a asp-action="Index">Back</a>
+[HttpGet]
+public IActionResult Edit(int id)
+{
+var employee = _context.Employees.Find(id);
+
+if (employee == null)
+{
+return NotFound();
+}
+
+return View(employee);
+}
+[HttpPost]
+public IActionResult Edit(Employee employee)
+{
+if (ModelState.IsValid)
+{
+_context.Employees.Update(employee);
+
+_context.SaveChanges();
+
+return RedirectToAction("Index");
+}
+
+return View(employee);
+}

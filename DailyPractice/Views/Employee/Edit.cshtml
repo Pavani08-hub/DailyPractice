@@ -1,0 +1,26 @@
+﻿[HttpGet]
+public IActionResult Delete(int id)
+{
+var employee = _context.Employees.Find(id);
+
+if (employee == null)
+{
+return NotFound();
+}
+
+return View(employee);
+}
+[HttpPost, ActionName("Delete")]
+public IActionResult DeleteConfirmed(int id)
+{
+var employee = _context.Employees.Find(id);
+
+if (employee != null)
+{
+_context.Employees.Remove(employee);
+
+_context.SaveChanges();
+}
+
+return RedirectToAction("Index");
+}
